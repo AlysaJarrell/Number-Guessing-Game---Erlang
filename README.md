@@ -4,7 +4,7 @@ Guessing number game in Erlang. I was learning Erlang to widen my languages and 
 When the program is run you, the user, are able to play a guessing game. It chooses a random number between 1-100. You make an inital guess and it responds by telling you to either guess higher or lower. If/when you guess the correct number it tells you and tells you how many tries it took. (Friendly reminder that in Erlang you have to put a '.' after everything you want to execute, even in the command line!).
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=eq_8cQDoWXg)
 
 # Development Environment
 
